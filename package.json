@@ -17,7 +17,7 @@
   "dependencies": {
     "browser-split": "0.0.0",
     "class-list": "~0.1.0",
-    "html-element": "^1.4.0"
+    "html-element": "git+https://github.com/freekh/html-element.git"
   },
   "browser": {
     "html-element": false
